@@ -1,0 +1,22 @@
+{
+  "name": "@pdulth/capella-help-toc-to-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proceed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdulth/capella-help-toc-to-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdulth/capella-help-toc-to-github/issues"
+  },
+  "homepage": "https://github.com/pdulth/capella-help-toc-to-github#readme",
+  "dependencies": {
+    "@pdulth/eclipse-help-toc-to-markdown": "^1.0.0"
+  }
+}
